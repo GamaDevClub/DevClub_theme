@@ -19,8 +19,8 @@
         "type": "internal",
         "href": "/apparel---accessories/",
         "noFollow": false,
-        "tagTitle": "Apparel & Accessories",
-        "text": "Apparel & Accessories"
+        "tagTitle": "Computadores & Acessórios",
+        "text": "Computadores & Acessórios"
       }
     },
     "blocks": [
@@ -55,8 +55,8 @@
         "type": "internal",
         "href": "/apparel---accessories/clothing/",
         "noFollow": false,
-        "tagTitle": "Clothing",
-        "text": "Clothing"
+        "tagTitle": "Notebooks",
+        "text": "Notebooks"
       }
     }
   },
@@ -70,8 +70,8 @@
         "type": "internal",
         "href": "/apparel---accessories/accessories/",
         "noFollow": false,
-        "tagTitle": "Accessories",
-        "text": "Accessories"
+        "tagTitle": "Tablets",
+        "text": "Tablets"
       }
     }
   },
@@ -85,8 +85,8 @@
         "type": "internal",
         "href": "/apparel---accessories/eyeglasses/",
         "noFollow": false,
-        "tagTitle": "Eyeglasses",
-        "text": "Eyeglasses"
+        "tagTitle": "Acessórios",
+        "text": "Acessórios"
       }
     }
   },
@@ -100,8 +100,8 @@
         "type": "internal",
         "href": "/home---decor/",
         "noFollow": false,
-        "tagTitle": "Home & Decor",
-        "text": "Home & Decor"
+        "tagTitle": "Celulares",
+        "text": "Celulares"
       }
     }
   },
@@ -115,8 +115,8 @@
         "type": "internal",
         "href": "#",
         "noFollow": true,
-        "tagTitle": "More",
-        "text": "More"
+        "tagTitle": "Mais",
+        "text": "Mais"
       }
     },
     "blocks": [
@@ -165,8 +165,8 @@
         "type": "internal",
         "href": "/about-us",
         "noFollow": true,
-        "tagTitle": "About us",
-        "text": "About us"
+        "tagTitle": "O que é o DevClub",
+        "text": "O que é o DevClub"
       }
     }
   }

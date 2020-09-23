@@ -29,7 +29,7 @@
   },
   "notification.bar#home": {
     "props": {
-      "content": "SELECTED ITEMS ON SALE! CHECK IT OUT!"
+      "content": "Projeto Final do desafio HIRING CODERS! O grupo DevClub agradece à GAMA ACADEMY, VTEX e AWS!!"
     }
   },
   "flex-layout.row#3-desktop": {
@@ -71,7 +71,7 @@
       "flex-layout.col#category-menu",
       "flex-layout.col#spacer",
       "search-bar",
-      "locale-switcher",
+
       "login",
       "minicart.v2"
     ]
@@ -90,10 +90,10 @@
   },
   "logo#desktop": {
     "props": {
-      "title": "Logo",
+      "title": "DevClub Shop",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180"
+      "url": "https://s1.gifyu.com/images/cooltext363418918353257.png",
+      "width": "350"
     }
   },
   "header-layout.mobile": {
@@ -136,7 +136,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
+      "url": "https://i.ibb.co/4jMDwD6/cooltext363370056840031.png",
       "width": "70"
     }
   }

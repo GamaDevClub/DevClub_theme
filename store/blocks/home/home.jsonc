@@ -6,9 +6,11 @@
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
       "__fold__.experimentalLazyAssets",
       "flex-layout.row#deals",
-      "rich-text#shelf-title",
+
       "flex-layout.row#shelf",
+      "flex-layout.row#shelf2",
       "info-card#home",
+      "info-card#home2",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
@@ -25,13 +27,22 @@
       "height": 720,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://s1.gifyu.com/images/Capturar.png",
+          "mobileImage": "https://s1.gifyu.com/images/Capturar.png"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://s1.gifyu.com/images/Capturar9.png",
+          "mobileImage": "https://s1.gifyu.com/images/Capturar9.png"
+        },
+        {
+          "image": "https://s1.gifyu.com/images/Capturar2.png",
+          "mobileImage": "https://s1.gifyu.com/images/Capturar2.png"
+        },
+        {
+          "image": "https://s1.gifyu.com/images/Capturar7.png",
+          "mobileImage": "https://s1.gifyu.com/images/Capturar7.png"
         }
+        
       ]
     }
   },
@@ -48,12 +59,7 @@
     }
   },
 
-  "rich-text#shelf-title": {
-    "props": {
-      "text": "## Summer",
-      "blockClass": "shelfTitle"
-    }
-  },
+
   "flex-layout.row#shelf": {
     "children": ["list-context.product-list#demo1"]
   },
@@ -67,7 +73,7 @@
   "slider-layout#demo-products": {
     "props": {
       "itemsPerPage": {
-        "desktop": 5,
+        "desktop": 3,
         "tablet": 3,
         "phone": 1
       },
@@ -82,26 +88,70 @@
       "id": "info-card-home",
       "isFullModeStyle": false,
       "textPosition": "left",
-      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
-      "callToActionText": "DISCOVER",
+      "imageUrl": "https://s1.gifyu.com/images/Capturar6.png",
+      "headline": "Novidades Apple",
+      "callToActionText": "Descubra",
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
     }
   },
 
+
+  "flex-layout.row#shelf2": {
+    "children": ["list-context.product-list#demo2"]
+  },
+  "list-context.product-list#demo2": {
+    "blocks": ["product-summary.shelf"],
+    "children": ["slider-layout#demo-products2"],
+    "props": {
+      "orderBy": "OrderByNameASC"
+    }
+  },
+  "slider-layout#demo-products2": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 3,
+        "tablet": 3,
+        "phone": 1
+      },
+      "infinite": true,
+      "fullWidth": false,
+      "blockClass": "shelf"
+    }
+  },
+
+
+
+
+  "info-card#home2": {
+    "props": {
+      "id": "info-card-home",
+      "isFullModeStyle": false,
+      "textPosition": "right",
+      "imageUrl": "https://s1.gifyu.com/images/Capturar886af0867fb9d22d7.png",
+      "headline": "Acessórios",
+      "callToActionText": "Aproveite",
+      "callToActionUrl": "/sale/d",
+      "blockClass": "info-card-home",
+      "textAlignment": "center",
+      "marginTop": 20
+    }
+  },
+  
+
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**Este loja foi criado para embarcar nosso Chat Bot 'Leia' utilizando a plataforma VTEX \n Quer saber mais?**",
       "blockClass": "question"
     }
   },
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
-      "blockClass": "link"
+      "text": "\n**Confira em**\nhttps://github.com/GamaDevClub/GamaDevClub",
+      "blockClass": "link",
+      "textAlignment": "center"
     }
   }
 }

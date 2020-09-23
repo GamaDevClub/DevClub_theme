@@ -1,25 +1,11 @@
 {
   "vtex.menu@2.x:menu#websites": {
     "children": [
-      "menu-item#shop",
+     
       "menu-item#about-us"
     ]
   },
-  "menu-item#shop": {
-    "props": {
-      "id": "menu-item-shop",
-      "type": "custom",
-      "iconId": null,
-      "highlight": false,
-      "itemProps": {
-        "type": "internal",
-        "href": "#",
-        "noFollow": false,
-        "tagTitle": "Shop",
-        "text": "Shop"
-      }
-    }
-  },
+
   "vtex.menu@2.x:menu#institutional": {
     "children": [
       "menu-item#vtex-website"
@@ -35,8 +21,8 @@
         "type": "external",
         "href": "http://vtex.com",
         "noFollow": false,
-        "tagTitle": "visit vtex.com",
-        "text": "visit vtex.com"
+        "tagTitle": "Nos contrata vtex.com?",
+        "text": "Nos contrata vtex.com?"
       }
     }
   }

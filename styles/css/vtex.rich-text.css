@@ -28,10 +28,10 @@
 
 .container--question .paragraph {
   text-align: center;
-  max-width: 540px;
+  max-width: 60em;
   margin: 0 16px;
   padding-top: 120px;
-  color: #03034E;
+  color: #1d1d1f;
 }
 
 .container--question .strong {
@@ -42,27 +42,27 @@
 
 .container--link .paragraph {
   text-align: center;
-  max-width: 540px;
+  max-width: 50rem;
   padding-top: 36px;
   padding-bottom: 84px;
-  color: #03034E;
+  color: #1d1d1f;
 }
 
 .container--link .strong {
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .container--link .link {
   text-decoration: none;
-  font-size: 36px;
+  font-size: 2em;
   font-weight: 300;
-  color: #03034E;
+  color: #1d1d1f;
 }
 
 .container--title {
-  color: #03034E;
+  color: #1d1d1f;
   font-size: 28px;
   font-weight: 700;
 }
@@ -78,7 +78,7 @@
   }
 
   .container--title {
-    color: #03034E;
+    color: #1d1d1f;
     font-size: 40px;
     font-weight: 700;
     max-width: 60%;

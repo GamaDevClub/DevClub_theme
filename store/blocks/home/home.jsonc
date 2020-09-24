@@ -142,7 +142,7 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**Este loja foi criado para embarcar nosso Chat Bot 'Leia' utilizando a plataforma VTEX \n Quer saber mais?**",
+      "text": "**Esta loja foi criada para embarcar nosso Chat Bot 'Leia' utilizando a plataforma VTEX \n Quer saber mais?**",
       "blockClass": "question"
     }
   },

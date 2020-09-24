@@ -88,7 +88,7 @@
       "imageUrl": "https://s1.gifyu.com/images/Capturar6.png",
       "headline": "Novidades Apple",
       "callToActionText": "Descubra",
-      "callToActionUrl": "/sale/d",
+      "callToActionUrl": "/apple",
       "blockClass": "info-card-home",
       "textAlignment": "center"
     }
@@ -124,7 +124,7 @@
       "imageUrl": "https://s1.gifyu.com/images/Capturar886af0867fb9d22d7.png",
       "headline": "Acessórios",
       "callToActionText": "Aproveite",
-      "callToActionUrl": "/sale/d",
+      "callToActionUrl": "/acessorios-para-celulares/acessorios-para-computadores/",
       "blockClass": "info-card-home",
       "textAlignment": "center",
       "marginTop": 20

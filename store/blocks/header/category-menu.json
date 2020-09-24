@@ -17,7 +17,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/",
+        "href": "/computadores/",
         "noFollow": false,
         "tagTitle": "Computadores & Acessórios",
         "text": "Computadores & Acessórios"
@@ -53,7 +53,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/categoria/notebooks/",
+        "href": "/computadores/notebooks/",
         "noFollow": false,
         "tagTitle": "Notebooks",
         "text": "Notebooks"
@@ -68,7 +68,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/accessories/",
+        "href": "/computadores/tablets/",
         "noFollow": false,
         "tagTitle": "Tablets",
         "text": "Tablets"
@@ -83,7 +83,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/eyeglasses/",
+        "href": "/computadores/Acessórios-para-Computadores/",
         "noFollow": false,
         "tagTitle": "Acessórios",
         "text": "Acessórios"
@@ -98,10 +98,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/home---decor/",
+        "href": "/Telefones-e-Celulares/",
         "noFollow": false,
-        "tagTitle": "Celulares",
-        "text": "Celulares"
+        "tagTitle": "Smartphones",
+        "text": "Smartphones"
       }
     }
   },

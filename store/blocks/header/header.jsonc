@@ -8,7 +8,6 @@
   "header-layout.desktop": {
     "children": [
       "flex-layout.row#1-desktop",
-      "flex-layout.row#2-desktop",
       "flex-layout.row#3-desktop",
       "sticky-layout#4-desktop"
     ]
@@ -20,18 +19,6 @@
       "fullWidth": true
     }
   },
-
-  "flex-layout.row#2-desktop": {
-    "children": ["notification.bar#home"],
-    "props": {
-      "fullWidth": "true"
-    }
-  },
-  "notification.bar#home": {
-    "props": {
-      "content": "Projeto Final do desafio HIRING CODERS! O grupo DevClub agradece à GAMA ACADEMY, VTEX e AWS!!"
-    }
-  },
   "flex-layout.row#3-desktop": {
     "props": {
       "blockClass": "menu-link",
@@ -41,9 +28,7 @@
       "fullWidth": true
     },
     "children": [
-      "vtex.menu@2.x:menu#websites",
-      "flex-layout.col#spacer",
-      "vtex.menu@2.x:menu#institutional"
+      "flex-layout.col#spacer"
     ]
   },
   "flex-layout.col#spacer": {
@@ -92,7 +77,7 @@
     "props": {
       "title": "DevClub Shop",
       "href": "/",
-      "url": "https://s1.gifyu.com/images/cooltext363418918353257.png",
+      "url": "https://uploaddeimagens.com.br/images/002/893/202/original/header-devclub-store.png?1600961745",
       "width": "350"
     }
   },
@@ -136,7 +121,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://s1.gifyu.com/images/cooltext363418918353257.png",
+      "url": "https://uploaddeimagens.com.br/images/002/893/202/original/header-devclub-store.png?1600961745",
       "width": "100"
     }
   }

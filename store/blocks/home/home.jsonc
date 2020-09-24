@@ -11,9 +11,7 @@
       "flex-layout.row#shelf2",
       "info-card#home",
       "info-card#home2",
-      "rich-text#question",
-      "rich-text#link",
-      "newsletter"
+      "rich-text#link"
     ]
   },
 
@@ -42,7 +40,7 @@
           "image": "https://s1.gifyu.com/images/Capturar7.png",
           "mobileImage": "https://s1.gifyu.com/images/Capturar7.png"
         }
-        
+
       ]
     }
   },
@@ -58,7 +56,6 @@
       "blockClass": "carousel"
     }
   },
-
 
   "flex-layout.row#shelf": {
     "children": ["list-context.product-list#demo1"]
@@ -96,8 +93,6 @@
       "textAlignment": "center"
     }
   },
-
-
   "flex-layout.row#shelf2": {
     "children": ["list-context.product-list#demo2"]
   },
@@ -121,9 +116,6 @@
     }
   },
 
-
-
-
   "info-card#home2": {
     "props": {
       "id": "info-card-home",
@@ -136,14 +128,6 @@
       "blockClass": "info-card-home",
       "textAlignment": "center",
       "marginTop": 20
-    }
-  },
-  
-
-  "rich-text#question": {
-    "props": {
-      "text": "**Este loja foi criado para embarcar nosso Chat Bot 'Leia' utilizando a plataforma VTEX \n Quer saber mais?**",
-      "blockClass": "question"
     }
   },
 

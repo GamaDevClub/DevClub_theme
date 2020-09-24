@@ -133,41 +133,12 @@
   },
   "flex-layout.row#menu-more": {
     "children": [
-      "flex-layout.col#menu-more-1",
       "flex-layout.col#menu-more-2"
-    ]
-  },
-  "flex-layout.col#menu-more-1": {
-    "children": [
-      "vtex.menu@2.x:menu#more"
     ]
   },
   "flex-layout.col#menu-more-2": {
     "children": [
       "info-card#home"
     ]
-  },
-  "vtex.menu@2.x:menu#more": {
-    "props": {
-      "orientation": "vertical"
-    },
-    "children": [
-      "menu-item#about-us"
-    ]
-  },
-  "menu-item#about-us": {
-    "props": {
-      "id": "menu-item-about-us",
-      "type": "custom",
-      "iconId": null,
-      "highlight": false,
-      "itemProps": {
-        "type": "internal",
-        "href": "/about-us",
-        "noFollow": true,
-        "tagTitle": "O que é o DevClub",
-        "text": "O que é o DevClub"
-      }
-    }
   }
 }

@@ -96,3 +96,7 @@
 .flexRow--addToCartRow {
   padding-bottom: 1rem;
 }
+
+.flexRow--menu-row {
+  background-color: #0f0f0f;
+}

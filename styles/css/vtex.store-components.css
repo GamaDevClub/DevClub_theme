@@ -10,6 +10,10 @@
   max-width: 208px;
 }
 
+.searchBarContainer :global(.vtex-store-components-3-x-autoCompleteOuterContainer) {
+  padding-top: .25rem;
+}
+
 .infoCardContainer--info-card-home {
   max-width: 1520px;
   margin: 0 auto;
